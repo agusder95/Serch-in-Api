@@ -1,0 +1,35 @@
+body{
+    background-color: darksalmon;
+    display: flex;
+    flex-direction: column;
+    margin: 0 5rem;
+    padding: 1rem;
+}
+
+header{
+    text-align: center;
+    background-color: deepskyblue;
+}
+
+main{
+    background-color: firebrick;
+    padding: 1rem;
+}
+
+label{
+    padding: 5px;
+    color:seashell;
+}
+
+input{
+    height: 2rem;
+}
+
+button{
+    margin: 2rem 0;
+    height: 4rem;
+    width: 6rem;
+}
+li{
+    padding: 1rem;
+}
